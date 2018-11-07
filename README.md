@@ -165,7 +165,7 @@ QA has created an automated test suite, but the development team has not. It wil
 
 ## Clarification
 
-- Proportion of testing: There is no right proportion of using different testing technique. It completely depends on project state / needs. 
+- **Proportion of testing**: There is no right proportion of using different testing technique. It completely depends on project state / needs. 
    1. Stakeholder Satisfaction
    2. Deliver on Time
    3. Deliver on Budget
