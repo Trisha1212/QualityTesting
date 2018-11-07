@@ -1,7 +1,11 @@
 # Quality Testing
 
 I will appreciate  ***Michael Bolton** & ***Margaret Dineen**  for pairing and sharing there knowledge :
-< br />
+<br />
+<br />
+<br />
+<br />
+
 ## Current Situation :
 - not seeing improved quality
 - not seeing improved productivity
