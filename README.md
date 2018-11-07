@@ -6,18 +6,21 @@ I will appreciate  ***Michael Bolton** & ***Margaret Dineen**  for pairing and s
 - not seeing improved quality
 - not seeing improved productivity
 - not seeing improved user sentiment
-< br />
-< br />
-< br />
-< br />
+
+
+
+<br />
+<br />
+<br />
+<br />
 
 ## Business Demands :  
  ### As a Business, we want to release reliable software more frequently in order to remain competitive
 - Setting up a delivery pipeline with the appropriate levels of maintainable automation AND manual testing required to support continuous delivery which ensure the stability of product as per project needs AND the culture to support them doesn’t happen overnight
-< br />
-< br />
-< br />
-< br />
+<br />
+<br />
+<br />
+<br />
 
 ## What is Quality : value to some person(s) who matter(s).
 ### What a customer thinks of as quality, what a programmer thinks of as quality, what a business owner thinks of as quality those are all different.
@@ -25,27 +28,27 @@ I will appreciate  ***Michael Bolton** & ***Margaret Dineen**  for pairing and s
 - To a **customer**, a quality product is one that delivers value; helps the customer gets something done without problems or friction.
 - To a **developer**, a quality product is one that is easy to develop and maintain; readable, understandable code. little friction when trying to add new features or fix bugs.
 - To a **product owner/project manager**, a quality product is one that they can ship on time to make the business and the customers happy.
-< br />
-< br />
-< br />
-< br />
+<br />
+<br />
+<br />
+<br />
 
 ## Does Testing improves quality ? 
  -  If we omits testing, the quality of a product (typically) will be A) Better B) Worse C) Indifferent? ( where A, B, C are different dimensions) Only one sensible answer exists. This makes testing necessary, but not sufficient, cause of quality. 
-< br />
-< br />
-< br />
-< br />
+<br />
+<br />
+<br />
+<br />
 
 ## What is Software Testing :
 ### The role of Software testing is to find problems, assess quality in certain dimensions, analysing risk. Test results/Reports are feedback to team to make empirically informed decisions about the product, project, or business.
  - Testing is questioning the product  in order to evaluate it
  - Testing is a process of empirical, technical, investigation done on behalf of stakeholders with the intention of revealing quality-related information of the kind that they seek 
 
-< br />
-< br />
-< br />
-< br />
+<br />
+<br />
+<br />
+<br />
 
 ## Who own Quality ?
 
@@ -90,10 +93,11 @@ Sincere thanks to Margaret for pairing up to come up with above diagram.
 
 
 
-< br />
-< br />
-< br />
-< br />
+<br />
+<br />
+<br />
+<br />
+
 # Current Business Risks:
 
 
@@ -150,7 +154,10 @@ QA has created an automated test suite, but the development team has not. It wil
 
 
 
-
+<br />
+<br />
+<br />
+<br />
 
 ## Clarification
 
