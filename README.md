@@ -1,6 +1,6 @@
 # Quality Testing
 
-I will appreciate ** Michael Bolton and Margaret Dineen ** for pairing and sharing :
+I will appreciate  ** Michael Bolton and Margaret Dineen**  for pairing and sharing there knowledge :
 
 ## Current Situation :
 - not seeing improved quality
