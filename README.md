@@ -1,16 +1,23 @@
 # Quality Testing
 
 I will appreciate  ***Michael Bolton** & ***Margaret Dineen**  for pairing and sharing there knowledge :
-
+< br />
 ## Current Situation :
 - not seeing improved quality
 - not seeing improved productivity
 - not seeing improved user sentiment
-
+< br />
+< br />
+< br />
+< br />
 
 ## Business Demands :  
  ### As a Business, we want to release reliable software more frequently in order to remain competitive
 - Setting up a delivery pipeline with the appropriate levels of maintainable automation AND manual testing required to support continuous delivery which ensure the stability of product as per project needs AND the culture to support them doesn’t happen overnight
+< br />
+< br />
+< br />
+< br />
 
 ## What is Quality : value to some person(s) who matter(s).
 ### What a customer thinks of as quality, what a programmer thinks of as quality, what a business owner thinks of as quality those are all different.
@@ -18,18 +25,29 @@ I will appreciate  ***Michael Bolton** & ***Margaret Dineen**  for pairing and s
 - To a **customer**, a quality product is one that delivers value; helps the customer gets something done without problems or friction.
 - To a **developer**, a quality product is one that is easy to develop and maintain; readable, understandable code. little friction when trying to add new features or fix bugs.
 - To a **product owner/project manager**, a quality product is one that they can ship on time to make the business and the customers happy.
+< br />
+< br />
+< br />
+< br />
 
 ## Does Testing improves quality ? 
  -  If we omits testing, the quality of a product (typically) will be A) Better B) Worse C) Indifferent? ( where A, B, C are different dimensions) Only one sensible answer exists. This makes testing necessary, but not sufficient, cause of quality. 
+< br />
+< br />
+< br />
+< br />
 
 ## What is Software Testing :
 ### The role of Software testing is to find problems, assess quality in certain dimensions, analysing risk. Test results/Reports are feedback to team to make empirically informed decisions about the product, project, or business.
  - Testing is questioning the product  in order to evaluate it
  - Testing is a process of empirical, technical, investigation done on behalf of stakeholders with the intention of revealing quality-related information of the kind that they seek 
 
+< br />
+< br />
+< br />
+< br />
 
 ## Who own Quality ?
-
 
 - The agile team owns the quality of the deliverables it produces and the quality of the processes it embraces
 - The agile team can impact the quality of other components that its deliverables interact with
@@ -72,7 +90,10 @@ Sincere thanks to Margaret for pairing up to come up with above diagram.
 
 
 
-
+< br />
+< br />
+< br />
+< br />
 # Current Business Risks:
 
 
@@ -105,11 +126,11 @@ Why less manual testing in agile team - To make sure existing changes and new ch
 
  The question is:  are they a bigger pain than the consequences of having bugs get built into the product, and buried so that they explode much later on? For any given bit of code, we don't know that! But we can guess. The key is to, as a team, to adapt and tune our behaviour when our guesses turn out to be bad guesses.
 
-Time all the developers spend fixing bugs
-Time Mohan spend trying to find where they have to go to fix the bugs
-Time does AMS spend trying to help customers through bugs
-Time do customers spend trying to work around bugs .. or doing research and communication
-If we calculate total time/money/resources spent  because of one bugs miss and  fixing/ workaround is huge than writing a unit test in first place.
+- Time all the developers spend fixing bugs
+- Time maintainence team spend trying to find where they have to go to fix the bugs
+- Time developer spend trying to help customers through bugs
+- Time do customers spend trying to work around bugs .. or doing research and communication
+** If we calculate total time/money/resources spent  because of one bugs miss and  fixing/ workaround is huge than writing a unit test in first place.
 
 ```
 
