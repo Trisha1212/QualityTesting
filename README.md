@@ -110,13 +110,14 @@ Team who focus is to build continuous testing is a steps closure CI/CD and even 
 ```
  
 - To build a continuous agile team need to focus on below things :
+<img src="1.png" width="900" />
 
 ```
-How to prevent bugs ? Doing a RCA analysis of bugs and ask developer to improve unit test, Ask tester to implement automated test, add test cases for manual tester and analyse how to improve process so that this bugs can never occurs.
-How to reduce manual effort ? – Placing right automated test.
-How to make QA server more stable ? – Doing more test in dev environment and feature branch (In feature branch people create a separate environment to test only changes for new feature)
-Existing features/Software version - Find out critical flow working/agreed with team and manually test them until it automated for existing versions.
-Why less manual testing in agile team - To make sure existing changes and new changes are working as expected team cannot complete in sprint and manual testing is very slow and unreliable process to share feedback with team.
+- How to prevent bugs ? Doing a RCA analysis of bugs and ask developer to improve unit test, Ask tester to implement automated test, add test cases for manual tester and analyse how to improve process so that this bugs can never occurs.
+- How to reduce manual effort ? – Placing right automated test.
+- How to make QA server more stable ? – Doing more test in dev environment and feature branch (In feature branch people create a separate environment to test only changes for new feature)
+- Existing features/Software version - Find out critical flow working/agreed with team and manually test them until it automated for existing versions.
+- Why less manual testing in agile team - To make sure existing changes and new changes are working as expected team cannot complete in sprint and manual testing is very slow and unreliable process to share feedback with team.
 ```
 
 - Unit Test 
