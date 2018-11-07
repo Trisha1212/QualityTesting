@@ -1,6 +1,6 @@
 # Quality Testing
 
-I will appreciate  ***Michael Bolton** & ***Margaret Dineen**  for pairing and sharing there knowledge :
+I will appreciate  ***Michael Bolton** & ***Margaret Dineen**  for pairing and sharing their knowledge :
 <br />
 <br />
 <br />
